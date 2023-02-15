@@ -1,5 +1,5 @@
 # MangoSwap
-MangoSwapToken Icon Update Guide
+MangoSwap Token Icon Update Guide
 
 # Introduction
 This warehouse is for MangoSwap to update tokens according to the needs of the community. As long as the PR is merged, the tokens and icons are updated in MangoSwap. Submit according to the guidelines below.
