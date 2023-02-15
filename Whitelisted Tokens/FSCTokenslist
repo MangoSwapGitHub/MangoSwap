@@ -1,0 +1,112 @@
+{
+  "name": "MangoSwap",
+  "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango.svg",
+  "keywords": [
+    "MangoSwap",
+    "defi"
+  ],
+  "timestamp": "2022-12-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 201022,
+      "address": "0xb582fD9d0D5C3515EEB6b02fF2d6eE0b6E45E7A7",
+      "name": "WFON",
+      "symbol": "WFON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/wfon.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0x9a9eD7440a3850c4D7240c9FcA8B7C96802615f0",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0x36BA5052A6dE24ed4d66143ECb4f629B5118f932",
+      "name": "Super Fast",
+      "symbol": "SFAST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/sfast.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0xCb81280383ba6F112d0Ac8c5E3ec0f0c98ddF7d8",
+      "name": "X-Super Fast",
+      "symbol": "X-SFAST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/X-SFAST.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0xf75f541F2B12F5647DeEa400957E1B8f7388a390",
+      "name": "Roselle",
+      "symbol": "Roselle",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/ros.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0xc4775d44105879c2948c2e6045629fA5b6D84aAF",
+      "name": "OSK TOKEN ",
+      "symbol": "OSK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/OSK.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0x95AEf8D7EBf8FeE2bb227E7e864eD6126ea6621d",
+      "name": "FIST COIN ",
+      "symbol": "FIST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/FIST.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0xbEB5087491F8f142beADA9D900D94AF825F04aF2",
+      "name": "RunRabbit",
+      "symbol": "RunRabbit",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/RunRabbit.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0xF6aa78632282C8FaAcE2cB4aC0Af4A8696AF5Ade",
+      "name": "CCDS",
+      "symbol": "CCDS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/ccdc.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
+      "name": "NUWA",
+      "symbol": "nuwa",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/NUWA.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0xfe77a79Ffa08DC522fe085c357e99E43871747bF",
+      "name": "SHJ ",
+      "symbol": "SHJ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/shj.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0x36f15929f9C10d1Bd6B2d42e71E2f69127ebD1E6",
+      "name": "FAST FON TOKEN ",
+      "symbol": "FASTs",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/fasts.svg"
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  }
+}
