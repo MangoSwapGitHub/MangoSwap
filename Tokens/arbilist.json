@@ -14,6 +14,7 @@
       "symbol": "1INCH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+    },
     {
       "chainId": 42161,
       "address": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
