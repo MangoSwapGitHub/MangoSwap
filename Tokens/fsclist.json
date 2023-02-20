@@ -89,6 +89,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0x71e47973FB91153B66B13a2baB3F7AAe2Cee152e",
+      "name": "NSK",
+      "symbol": "Noahs ark ",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/NSK.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0xfe77a79Ffa08DC522fe085c357e99E43871747bF",
       "name": "SHJ ",
       "symbol": "SHJ",
