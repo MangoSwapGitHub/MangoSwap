@@ -8,7 +8,7 @@
   },
   "tags": {
   },
-  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango.svg",
   "keywords": [
     "MangoSwap",
     "default"
@@ -18,7 +18,7 @@
       "address": "0x155f0DD04424939368972f4e1838687d6a831151",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango.svg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg",
       "name": "ArbiDoge",
       "symbol": "ADoge"
     },
