@@ -97,6 +97,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0xfe77a79Ffa08DC522fe085c357e99E43871747bF",
+      "name": "SHJ ",
+      "symbol": "SHJ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/shj.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x36f15929f9C10d1Bd6B2d42e71E2f69127ebD1E6",
       "name": "FAST FON TOKEN ",
       "symbol": "FASTs",
