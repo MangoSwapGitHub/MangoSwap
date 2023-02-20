@@ -781,10 +781,5 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
     }
-  ],
-  "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
   }
 }
