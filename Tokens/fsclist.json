@@ -1,6 +1,6 @@
 {
   "name": "MangoSwap",
-  "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg",
+  "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango.svg",
   "keywords": [
     "MangoSwap",
     "defi"
@@ -13,7 +13,7 @@
       "name": "WFON",
       "symbol": "WFON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/wfon.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/wfon.svg"
     },
     {
       "chainId": 201022,
@@ -29,7 +29,7 @@
       "name": "Super Fast",
       "symbol": "SFAST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/sfast.svg"
     },
     {
       "chainId": 201022,
@@ -37,7 +37,7 @@
       "name": "X-Super Fast",
       "symbol": "X-SFAST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/X-SFAST.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/X-SFAST.svg"
     },
     {
       "chainId": 201022,
@@ -45,7 +45,7 @@
       "name": "Roselle",
       "symbol": "Roselle",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/ros.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/ros.svg"
     },
     {
       "chainId": 201022,
@@ -53,7 +53,7 @@
       "name": "OSK TOKEN ",
       "symbol": "OSK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/OSK.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/OSK.svg"
     },
     {
       "chainId": 201022,
@@ -61,7 +61,7 @@
       "name": "FIST COIN ",
       "symbol": "FIST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/FIST.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/FIST.svg"
     },
     {
       "chainId": 201022,
@@ -69,7 +69,7 @@
       "name": "RunRabbit",
       "symbol": "RunRabbit",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/RunRabbit.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/RunRabbit.svg"
     },
     {
       "chainId": 201022,
@@ -85,23 +85,15 @@
       "name": "CCDS",
       "symbol": "CCDS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/ccdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/ccdc.svg"
     },
     {
       "chainId": 201022,
       "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
-      "name": "nuwa",
+      "name": "NUWA",
       "symbol": "nuwa",
       "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/NUWA.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0xfe77a79Ffa08DC522fe085c357e99E43871747bF",
-      "name": "SHJ ",
-      "symbol": "SHJ",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/shj.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/NUWA.svg"
     },
     {
       "chainId": 201022,
@@ -109,7 +101,7 @@
       "name": "FAST FON TOKEN ",
       "symbol": "FASTs",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fast.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/fast.svg"
     }
   ],
   "version": {
