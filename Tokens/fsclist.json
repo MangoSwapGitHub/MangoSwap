@@ -66,8 +66,8 @@
     {
       "chainId": 201022,
       "address": "0x71e47973FB91153B66B13a2baB3F7AAe2Cee152e",
-      "name": "NSK",
-      "symbol": "Noahs ark",
+      "name": "Noahs ark",
+      "symbol": "NSK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/NSK.svg"
     },
