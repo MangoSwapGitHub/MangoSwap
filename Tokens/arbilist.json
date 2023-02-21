@@ -82,7 +82,7 @@
       "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
       "name": "Curve DAO Token",
       "symbol": "CRV"
     },
@@ -186,7 +186,7 @@
       "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A.jpg",
       "name": "Magic Internet Money",
       "symbol": "MIM"
     },
@@ -202,7 +202,7 @@
       "address": "0x51fC0f6660482Ea73330E414eFd7808811a57Fa2",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/premia.jpg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/premia.jpg",
       "name": "Premia",
       "symbol": "PREMIA"
     },
@@ -226,7 +226,7 @@
       "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg",
       "name": "Spell Token",
       "symbol": "SPELL"
     },
