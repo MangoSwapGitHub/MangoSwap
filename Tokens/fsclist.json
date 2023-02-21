@@ -65,14 +65,6 @@
     },
     {
       "chainId": 201022,
-      "address": "0xbEB5087491F8f142beADA9D900D94AF825F04aF2",
-      "name": "RunRabbit",
-      "symbol": "RunRabbit",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/RunRabbit.svg"
-    },
-    {
-      "chainId": 201022,
       "address": "0x71e47973FB91153B66B13a2baB3F7AAe2Cee152e",
       "name": "NSK",
       "symbol": "Noahs ark",
