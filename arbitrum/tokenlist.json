@@ -1,11 +1,16 @@
 {
-  "name": "MangoSwap",
+  "name": "MangoSwap Tokenslist",
+  "timestamp": "2023-02-15T08:32:51.867Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 120
+  },
   "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango.svg",
   "keywords": [
     "MangoSwap",
-    "defi"
+    "Tokenslist"
   ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 42161,
@@ -39,5 +44,5 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
-  ],
+  ]
 }
