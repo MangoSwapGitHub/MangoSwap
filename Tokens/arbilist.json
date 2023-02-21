@@ -1,5 +1,5 @@
 {
-  "name": "SushiSwap Menu",
+  "name": "MangoSwap",
   "timestamp": "2022-08-10T07:54:08.779Z",
   "version": {
     "major": 31,
@@ -8,9 +8,9 @@
   },
   "tags": {
   },
-  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango.svg",
   "keywords": [
-    "sushiswap",
+    "MangoSwap",
     "default"
   ],
   "tokens": [
