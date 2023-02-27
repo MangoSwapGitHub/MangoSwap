@@ -15,6 +15,14 @@
   ],
   "tokens": [
     {
+      "address": "0x16290a6eADFE4C291AE8F60057632797B63c556A",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango%20(1).png",
+      "name": "MangoSwap",
+      "symbol": "Mango"
+    },
+    {
       "address": "0x155f0DD04424939368972f4e1838687d6a831151",
       "chainId": 42161,
       "decimals": 18,
