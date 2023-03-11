@@ -37,12 +37,28 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/OSK.svg"
     },
     {
-      "name": "WFON TOKEN",
-      "symbol": "WFON",
-      "address": "0x3C7014e5fA834791cF2154f163cd0a8CB9e8aBb0",
+      "name": "Gold Seed",
+      "symbol": "GSD",
+      "address": "0xB12E8Eb6b1F24e14381514d2f3B75e7c61487016",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/wfon.svg"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0xb12e8eb6b1f24e14381514d2f3b75e7c61487016/logo.png"
+    },
+    {
+      "name": "QJ",
+      "symbol": "QJ",
+      "address": "0x6743665257C429605aa344ed04dFF7A183A50296",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0x6743665257c429605aa344ed04dff7a183a50296/logo.jpg"
+    },
+    {
+      "name": "ZM",
+      "symbol": "ZM",
+      "address": "0x4ec59bbE3D46473C4fcCecaF7ddBe8d80d1767A8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0x4ec59bbe3d46473c4fccecaf7ddbe8d80d1767a8/logo.png"
     },
     {
       "name": "PancakeSwap Token",
