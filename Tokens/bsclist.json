@@ -37,14 +37,6 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/OSK.svg"
     },
     {
-      "name": "OSK COIN",
-      "symbol": "OSK",
-      "address": "0x293F1954C8f851A274811d396BB52eaDcD503189",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/OSK.svg"
-    },
-    {
       "name": "New Wish",
       "symbol": "NWISH",
       "address": "0xA1E637397a733a1EF7220eC4a93C68644aCD23ed",
