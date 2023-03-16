@@ -69,6 +69,14 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0x4ec59bbe3d46473c4fccecaf7ddbe8d80d1767a8/logo.png"
     },
     {
+      "name": "KingArthur",
+      "symbol": "KingArthur",
+      "address": "0xb05eBc27eD2266097811DA1baBFB045B5FbCb98d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/KingArthur.png"
+    },
+    {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
