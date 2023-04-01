@@ -23,12 +23,12 @@
       "symbol": "Mango"
     },
     {
-      "address": "0x155f0DD04424939368972f4e1838687d6a831151",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/doge.jpg",
-      "name": "ArbiDoge",
-      "symbol": "ADoge"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/ARB.png",
+      "name": "Arbitrum ",
+      "symbol": "ARB"
     },
     {
       "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
