@@ -69,12 +69,12 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0x4ec59bbe3d46473c4fccecaf7ddbe8d80d1767a8/logo.png"
     },
     {
-      "name": "QScoin (QS)",
+      "name": "QScoin",
       "symbol": "QS",
       "address": "0x2F31127f3Af847E52E0eA5015fe0F5f1a04aAFB2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/QS%20LOGO.png"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Qs.png"
     },
     {
       "name": "KingArthur",
