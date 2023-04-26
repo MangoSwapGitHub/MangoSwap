@@ -47,30 +47,6 @@
       "symbol": "BUCK"
     },
     {
-      "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
-      "name": "Curve DAO Token",
-      "symbol": "CRV"
-    },
-    {
-      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
-      "name": "DAI Stablecoin",
-      "symbol": "DAI"
-    },
-    {
-      "address": "0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png",
-      "name": "The Doge NFT",
-      "symbol": "DOG"
-    },
-    {
       "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
       "chainId": 42161,
       "decimals": 18,
