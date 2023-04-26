@@ -15,12 +15,12 @@
   ],
   "tokens": [
     {
-      "address": "0x16290a6eADFE4C291AE8F60057632797B63c556A",
+      "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
       "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/Mango%20(1).png",
-      "name": "MangoSwap",
-      "symbol": "Mango"
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b.webp",
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE"
     },
     {
       "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
@@ -29,46 +29,6 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/ARB.png",
       "name": "Arbitrum ",
       "symbol": "ARB"
-    },
-    {
-      "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
-      "chainId": 42161,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg",
-      "name": "ArbiMoon",
-      "symbol": "aMoon"
-    },
-    {
-      "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x9f20de1fc9b161b34089cbEAE888168B44b03461/logo.png",
-      "name": "Arbis",
-      "symbol": "ARBIS"
-    },
-    {
-      "address": "0x09ad12552ec45f82bE90B38dFE7b06332A680864",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x09ad12552ec45f82bE90B38dFE7b06332A680864/logo.png",
-      "name": "Adamant Token",
-      "symbol": "ARBY"
-    },
-    {
-      "address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png",
-      "name": "Arbys",
-      "symbol": "ARBYS"
-    },
-    {
-      "address": "0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04",
-      "chainId": 42161,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04/logo.png",
-      "name": "ArVault",
-      "symbol": "ARVAULT"
     },
     {
       "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
