@@ -39,12 +39,20 @@
       "symbol": "GRAIL"
     },
     {
-      "address": "0xAFD871f684F21Ab9D7137608C71808f83D75e6fc",
+      "address": "0xD713a0968A2Ef8f39655fB7522AA14d3eCa859f8",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png",
-      "name": "Arbucks",
-      "symbol": "BUCK"
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/aidogarb.png",
+      "name": "Arb AI Dog ",
+      "symbol": "AIDOG"
+    },
+    {
+      "address": "0xF8Fa4148C54248b194c3FC06012291D906551CEf",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/AiFOODarb.png",
+      "name": "Arb Ai Food )",
+      "symbol": "AIFOOD"
     },
     {
       "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
