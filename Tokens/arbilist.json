@@ -34,7 +34,7 @@
       "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28416/thumb/vj5DIMhP_400x400.jpeg?1670457013",
+      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/GRAIL.png",
       "name": "Camelot Token",
       "symbol": "GRAIL"
     },
